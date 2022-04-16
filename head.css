@@ -1,0 +1,19 @@
+h1{
+	background-color: black;
+	color: white;
+	padding: 20px;
+}
+header{
+	background-color: black;
+}
+footer{
+	
+	background-color: black;
+	color: #FFFFFF;
+}
+.footer-link{
+	color: #FFFFFF;
+}
+ul{
+	list-style: none;
+}
